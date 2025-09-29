@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TechRafita
-- 👀 I’m interested in Technology, videogames and AI 
-- 🌱 I’m currently doing College
+- 👀 I’m interested in Cybersecurity and Ethical Hacking
+- 🌱 I’m currently doing Software Engineering at Unuversity
 - 💞️ I’m looking to collaborate on a cool project for the first time ever
 - 📫 How to reach me techrafita7442@gmail.com
 - 😄 Pronouns: he/him
